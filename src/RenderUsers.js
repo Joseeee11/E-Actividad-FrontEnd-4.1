@@ -42,6 +42,5 @@ export function RenderUsers({resultados}) { //recibimos el array de resultados p
                 <p className="nonExist"> No existen usuarios con el valor que ingresaste </p>
             )}
         </>
-    );
-    
+    ); 
 }
